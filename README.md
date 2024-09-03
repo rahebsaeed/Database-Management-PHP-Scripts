@@ -1,5 +1,4 @@
-# git branch -M main
-
+# Database Management PHP Scripts
 
 This repository contains two PHP scripts designed for managing and manipulating data within a MySQL database. Below is an overview of each script's functionality and usage.
 
@@ -39,11 +38,6 @@ This script compares the `name` column between two tables (`table1` and `table2`
 1. **Update Connection Settings:** Configure the database connection settings in the script to match your environment.
 2. **Execute Script:** Run the script on your PHP server to compare the tables and remove the matching rows.
 
-## Important Notes
-
-- **Data Backup:** It is highly recommended to back up your data before running these scripts, especially in a production environment.
-- **Testing:** Test these scripts in a development environment to ensure they perform as expected before using them in production.
-- **Error Handling:** Make sure to check the output and error messages to verify that the scripts execute correctly.
 
 ## License
 
